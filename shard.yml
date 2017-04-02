@@ -1,0 +1,13 @@
+name: reddit_place
+version: 0.1.0
+
+authors:
+  - Denys Vitali <denys.vitali@coelis.ch>
+
+targets:
+  reddit_place:
+    main: src/reddit_place.cr
+
+crystal: 0.21.1+41
+
+license: MIT
